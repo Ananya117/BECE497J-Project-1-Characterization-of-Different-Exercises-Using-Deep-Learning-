@@ -140,5 +140,3 @@ The system pipeline includes pose estimation, kinematic feature extraction, sign
 * Added **PSD graphs** to confirm energy distribution across frequencies.
 * Decided to conclude with **theoretical model analysis** using extracted features (fatigue / form classification).
 
-
-want me to also add a **“📁 Repository Structure”** section after this (like showing folders `/data`, `/scripts`, `/plots`, `/models`, etc.) so your README looks fully professional?
