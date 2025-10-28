@@ -6,8 +6,8 @@ The goal is to extract joint motion parameters — such as **angles, displacemen
 Since the dataset was externally sourced, the workflow involved **working backwards** from available videos to derive all possible measurable parameters.
 The system pipeline includes pose estimation, kinematic feature extraction, signal filtering (FFT & Butterworth), repetition segmentation, and theoretical fatigue analysis.
 
-Dataset: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video?resource=download-directory
-Project Gdrive: https://drive.google.com/drive/folders/13d3gKZofFpBBctATwcOjMID9xfDYEImu?usp=sharing
+* Dataset: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video?resource=download-directory
+* Project Gdrive: https://drive.google.com/drive/folders/13d3gKZofFpBBctATwcOjMID9xfDYEImu?usp=sharing
 
 ---
 
